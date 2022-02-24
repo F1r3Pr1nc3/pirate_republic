@@ -21,7 +21,7 @@
  pirate_republic.102.refuse: "Du BIST verrückt! Ende der Kommunikation."
  pirate_republic.103.desc: "Ah, so schade. Dieser Planet ist einfach so hübsch. Ein Haufen in die Enge getriebener und widerspenstiger Piraten los – warte, du hast zugestimmt? Ich... ich dachte eigentlich nicht, dass es funktionieren würde. Oh, Nun, kein Zurück mehr!"
  pirate_republic.103.option: "Ich bereue es jetzt schon..."
- pirate_republic.104.desc: "Ah, wie schade. Dieser Planet ist einfach so hübsch.
+ pirate_republic.104.desc: "Ah, wie schade. Dieser Planet ist einfach so hübsch."
  pirate_republic.104.option: "Verdammte Piraten!"
  pirate_republic.11.desc: "Gute Nachrichten, schlechte Nachrichten. Die gute Nachricht ist, dass das Rätsel um das plötzliche Verschwinden der Piraten, die im §Y[pirate_system.GetName]§!-System aktiv waren, gelöst wurde. Die schlechte Nachricht ist, dass sie auf der Oberfläche des Planeten §Y[Root.GetName]§ wieder aufgetaucht sind!! Es scheint, dass alles Teil einer geplanten Invasion war, um die Kontrolle über die Kolonie zu übernehmen!"
  pirate_republic.11.name: "Piraten... gefunden"
